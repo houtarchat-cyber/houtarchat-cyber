@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying in **Yangquan No.1 Middle School**.
+- 🔭 I’m currently studying in **HEBEI UNIVERSITY OF TECHNOLOGY**.
 <!-- - 🌱 I’m currently learning **Vue.js** and **Django**.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
